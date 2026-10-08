@@ -87,4 +87,4 @@ lang: ja
 ## 10. 問い合わせ先
 
 まいにち台湾華語 開発者
-メール: （問い合わせ先）
+メール: learntaiwanmandarin@gmail.com

@@ -83,4 +83,4 @@ We may change this policy as needed. We will notify you in the App or on this pa
 ## 10. Contact
 
 Developer of Learn Taiwan Mandarin
-Email: (insert contact address)
+Email: learntaiwanmandarin@gmail.com
