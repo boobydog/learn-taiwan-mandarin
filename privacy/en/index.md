@@ -18,7 +18,7 @@ Effective date: (insert the publication date)
    - Your nickname and icon image (set by you; if you sign in with Google and have not set them, your Google name and photo are used as the initial values).
    - Settings such as display language, ruby display, daily study time, skills to study, study reminder time, and voice for audio.
 3. **Learning records**
-   - Your answers to questions, review schedule, XP earned and study streak, favorite questions, and placement test results.
+   - Your answers to questions, records of finishing a set of questions, review schedule, XP and coins earned and study streak, items you have (obtained with in-app coins) and records of buying, using, and receiving them as bonuses, favorite questions, placement test results, and learning course progress and level-up test results.
 4. **Question reports**
    - When you report an error in a question, the reason and your comment (up to 500 characters).
 5. **Voice**
@@ -60,7 +60,7 @@ So that you can study offline, the App stores learning materials, their audio, y
 ## 5. Retention and deletion
 
 - We keep your information for as long as your account exists.
-- **Reset learning data**: On the "Account" screen in the App, you can delete your learning records (answers, review schedule, favorites, and placement test results).
+- **Reset learning data**: On the "Account" screen in the App, you can delete your learning records (answers, review schedule, XP, coins, and items, favorites, placement test results, learning course progress and level-up test results, and so on).
 - **Delete account**: On the "Account" screen in the App, you can delete your account. This deletes all information in 1.1–1.4 from our servers.
 - Reports that have already been delivered to the developer (records on GitHub and notification emails) are kept to improve the learning materials. They do not include your name or account ID.
 
